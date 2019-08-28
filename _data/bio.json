@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Nickolas Ashikawa",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://nickashikawa.github.io/images/molly.png",
+    "email": "nashikaw@hawaii.edu",
+    "phone": "808-542-2819",
+    "website": "https://nickashikawa.github.io",
+    "summary": "I am majoring in Marketing, International Business, and Management Information System and I expect to graduate in 2022.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,18 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "nickashikawa",
+        "url": "http://github.com/nickashikawa"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "nickolasashikawa",
+        "url": "http://linkedin.com/in/nickolas-a"
       },
       {
         "network": "instagram",
@@ -39,19 +34,17 @@
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "photography",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "fashion",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "music",
       "keywords": [
       ]
     }
