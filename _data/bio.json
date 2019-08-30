@@ -25,11 +25,6 @@
         "username": "nickolasashikawa",
         "url": "http://linkedin.com/in/nickolas-a"
       },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
@@ -49,7 +44,7 @@
       ]
     }
   ],
-  "skills": [
+  "skills": [ 
     {
       "name": "Languages and Frameworks",
       "level": "",
@@ -77,9 +72,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Marketing, International Business, and Management Information System (expected Fall, 2022)",
+      "studyType": "B.B.A.",
+      "startDate": "2017-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -88,15 +83,15 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Ted Baker",
+      "position": "Sales Associate",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2019-04-05",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Connect with customer to build relationship of a client to help for a better experience",
+        "Gain knowledge of the fashion realm as well as process and materials of clothing"
       ]
     },
     {
@@ -141,17 +136,11 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "title": "Manoa B+ Scholarship",
+      "date": "2017-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
