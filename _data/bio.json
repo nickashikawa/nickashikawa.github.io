@@ -23,9 +23,10 @@
       {
         "network": "linkedin",
         "username": "nickolasashikawa",
-        "url": "http://linkedin.com/in/nickolas-a"
-      },
-    ]
+        "url": "https://www.linkedin.com/in/nickolas-a-467b82132/"
+      }
+     ]
+   
   },
   "interests": [
     {
@@ -93,7 +94,7 @@
         "Connect with customer to build relationship of a client to help for a better experience",
         "Gain knowledge of the fashion realm as well as process and materials of clothing"
       ]
-    },
+    }
   ],
   "awards": [
     {
@@ -101,7 +102,7 @@
       "date": "2017-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
+    }
   ],
   "references": [
     {
